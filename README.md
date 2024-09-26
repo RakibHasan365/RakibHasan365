@@ -1,9 +1,9 @@
 
 ![I am a frontend Web Developer](https://avatars.githubusercontent.com/u/182843290?v=4)
 ### Hi there 👋, my name is Rakib hasan
-#### I am a frontend Web Developer
+#### I am a Front End Web Developer
 
-I am a junior Front End Web Developer who is passionate to build error free website with 100% client satisfactio. I have a passion for learning about my industries & get updated all the time as much as I can. Love to develop any site using wordpress & with other technologies like JavaScript as well as PHP.
+I am a Junior Front End Web Developer who is passionate to build error free website with 100% client satisfactio. I have a passion for learning about my industries & get updated all the time as much as I can. Love to develop any site using wordpress & with other technologies like JavaScript as well as PHP.
 
 Skills: Wordpress / JS / HTML / CSS / PHP
 
